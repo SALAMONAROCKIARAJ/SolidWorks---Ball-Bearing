@@ -11,3 +11,5 @@ To download solidworks file click on the #SolidWorks-file.
 To download in .igs format click on the #igs-file.
 
 you can see that tutorial here : https://www.youtube.com/watch?v=hCiu-NERMy4 
+
+Note :I used a Rivet, which can be found in the Solidworks design library, to attach both cages.
